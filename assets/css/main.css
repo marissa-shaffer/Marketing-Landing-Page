@@ -105,11 +105,11 @@
 	}
 
 	body {
-		background: #8AB661;
+		background: #ECDEC3;
 	}
 
 	body, input, select, textarea {
-		color: #777;
+		color: #E0E6E6;
 		font-family: 'Montserrat', sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
@@ -2931,8 +2931,8 @@
 	}
 
 	#header {
-		background: #444;
-		color: #bbb;
+		background: #8AB661;
+		color: #E0E6E6;
 		cursor: default;
 		height: 3.25em;
 		left: 0;
@@ -2993,14 +2993,14 @@
 					}
 
 					#header nav > ul > li a:not(.button) {
-						color: #fff;
+						color: #E0E6E6;
 						display: inline-block;
 						text-decoration: none;
 						border: 0;
 					}
 
 						#header nav > ul > li a:not(.button).icon:before {
-							color: #999;
+							color: #E0E6E6;
 							margin-right: 0.5em;
 						}
 
@@ -3022,7 +3022,7 @@
 		#header input[type="button"],
 		#header .button {
 			background-color: transparent;
-			box-shadow: inset 0 0 0 2px #999;
+			box-shadow: inset 0 0 0 2px #E0E6E6;
 			color: #fff;
 		}
 
@@ -3256,7 +3256,7 @@
 /* Footer */
 
 	#footer {
-		background: #ECDEC3;
+		background: #8AB661;
 		padding: 4em 0 6em 0;
 		text-align: center;
 	}
@@ -3274,7 +3274,7 @@
 			}
 
 		#footer .copyright {
-			color: #999;
+			color: #E0E6E6;
 			font-size: 0.9em;
 			line-height: 1em;
 			margin: 2em 0 0 0;
